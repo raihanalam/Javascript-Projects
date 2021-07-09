@@ -1,5 +1,9 @@
 # Javascript-Projects
 Here is some begginer Javascript Projects lists
 
-<ol>
+<ul>
   <li>Typing Speed Tester - <a href="https://raihanalam.github.io/TypingSpeedTester/">Live Demo</a></li>
+  <li>Wikipedia Searcher - <a href="https://raihanalam.github.io/WikipediaSearcher/">Live Demo</a></li>
+  <li>Curerncy Converter - <a href="https://raihanalam.github.io/CurerncyConverter/">Live Demo</a></li>
+  <li>Weather Search - <a href="https://raihanalam.github.io/WeatherSearch/">Live Demo</a></li>
+ </ul>
