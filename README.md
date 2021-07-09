@@ -1,5 +1,5 @@
 # Javascript-Projects
-Here is some begginer Javascript Projects lists
+Here is some begginer Javascript Projects lists:
 
 <ul>
   <li>Typing Speed Tester - <a href="https://raihanalam.github.io/TypingSpeedTester/">Live Demo</a></li>
